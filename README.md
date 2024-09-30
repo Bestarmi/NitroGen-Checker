@@ -13,9 +13,9 @@ Lo inicias, te pedira el numero de "url/codigos" que quieras generar (desde 1 a 
     el codigo ejecutandose dentro de una vps y a diario ver
     si genero un code valido.
 # CREDITOS
- Low Cost Hostings & High Performance: GLGROW.COM | GLGROW COMPANY
- Instagram: glgrowcompany
- Discord: discord.glgrow.com
- Store: billing.glgrow.com or glgrow.com
+ - Low Cost Hostings & High Performance: GLGROW.COM | GLGROW COMPANY
+ - Instagram: glgrowcompany
+ - Discord: discord.glgrow.com
+ - Store: billing.glgrow.com or glgrow.com
 
  By Bestarmi
